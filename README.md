@@ -171,8 +171,6 @@ Submit a pull request.
 💻 GitHub: HTsandaruvan
 🌐 Portfolio: https://harsha-portfolio-rho.vercel.app/
 📧 Email: tsandaruvan29@gmail.com
-markdown
-Copy
 
 ---
 
