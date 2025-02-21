@@ -63,7 +63,7 @@ EMAIL_PASS=your-email-password #google app password
 4️⃣ Set Up the Database
 
 
-``sql
+```sql
 CREATE DATABASE appointment_booking;
 
 USE appointment_booking;
@@ -99,6 +99,7 @@ CREATE TABLE slots (
     time_slot VARCHAR(50) NOT NULL
 );
 
+```
 
 5️⃣ Run the Server
 ```bash
